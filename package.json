@@ -1,0 +1,31 @@
+{
+  "name": "embedded-database-benchmark",
+  "version": "1.0.0",
+  "description": "Measuring the performance of embedded database for blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuGowda/embedded-database-benchmark.git"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "benchmark": "^2.1.4",
+    "colors": "~0.6.0-1",
+    "leveldown": "5.6.0",
+    "levelup": "4.4.0",
+    "rimraf": "^2.6.3",
+    "sqlite3": "4.1.1",
+    "rocksdb": "4.1.0",
+    "randomatic": "3.1.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuGowda/embedded-database-benchmark/issues"
+  },
+  "homepage": "https://github.com/ManuGowda/embedded-database-benchmark#readme"
+}

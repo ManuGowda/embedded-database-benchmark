@@ -1,0 +1,4 @@
+_benchdb_*
+bench-dbs/*
+.vscode/
+node_modules/
